@@ -54,7 +54,7 @@ Script ini di modifikasi sama saya sendiri Aris187 ID.
 ```bash
 > kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
-> git clone https://github.com/A187ID/AR15BOT
+> git clone https://github.com/VARGASOFFICIAL/VARGAS0404
 > cd AR15BOT
 > bash install.sh
 > node index js
