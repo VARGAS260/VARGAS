@@ -71,9 +71,9 @@ Ket: Aktiv 24 jam
 ## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
 * [`Youtube Admin`](https://www.youtube.com/channel/UCGYLWtyT9IADYNUiK0uZiGg)
-* [`Instagram Admin`](https://instagram.com/_sadboy.ig)
+* [`Instagram Admin`](https://instagram.com/VARGAS_250/)
 * [`WhatsApp Admin `](https://wa.me/+6285722553839)
-* [`Group WhatsApp `](https://chat.whatsapp.com/DSSHmG2KjKJLoFp9B9mkVs)
+* [`Group WhatsApp `](https://chat.whatsapp.com/CWSgYJnbiFWFuQyY9VXDGb)
 ## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
 
 * [`fdciabdul`](https://github.com/fdciabdul/termux-whatsapp-bot)
