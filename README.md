@@ -10,10 +10,10 @@
 <a href="#"><img title="VARGAS_250BOT" src="https://img.shields.io/badge/VARGAS_250-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/A187ID"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ARIS187 ID-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/VARGASOFFICIAL"><img title="Author" src="https://img.shields.io/badge/AUTHOR-VARGAS OFFICIAL-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://www.codefactor.io/repository/github/A187ID/AR15BOT"><img title="Rating" src="https://www.codefactor.io/repository/github/A187ID/AR15BOT/badge/main"></a>
+<a href="https://www.codefactor.io/repository/github/VARGASOFFICIAL/VARGAS0404"><img title="Rating" src="https://www.codefactor.io/repository/github/VARGASOFFICIAL/VARGAS0404/badge/main"></a>
 </p>
 <p align="center">
 <a href="https://github.com/A187ID/AR15BOT/followers"><img title="Followers" src="https://img.shields.io/github/followers/A187ID?color=blue&style=flat-square"></a>
