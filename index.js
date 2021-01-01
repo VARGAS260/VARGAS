@@ -817,11 +817,10 @@ client.on('group-participants-update', async (anu) => {
 						fs.unlinkSync(media)
 						if (err) return reply('𝐘𝐞𝐚𝐡 𝐠𝐚𝐠𝐚𝐥 ;( , 𝐜𝐨𝐛𝐚 𝐥𝐚𝐠𝐢 𝐤𝐚𝐤 ><')
 						buffer = fs.readFileSync(ran)
-						client.sendMessage(from, buffer, image, {quoted: mek, caption: '𝗱𝗮𝗵 𝗷𝗮𝗱𝗶 *gan*})
+						client.sendMessage(from, buffer, image, {quoted: mek, caption: '*SUKSES GAN*'})
 						fs.unlinkSync(ran)
 					})
-					break
-		
+					break		
 			 
 				case 'simih':
 					if (!isGroup) return reply(mess.only.group)
